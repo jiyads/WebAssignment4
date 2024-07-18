@@ -8,7 +8,7 @@ Add the following declaration at the top of your server.js file:
 *
 * Name: Jiyad Mohammed Arif Shaikh Student ID: 149307233 Date: 07/16/2024
 *
-* Online (Heroku) Link: https://protected-wave-78112-7f8295ffea4f.herokuapp.com/
+* Online (Heroku) Link: https://fast-journey-04365-561f7408635d.herokuapp.com/
 *
 ********************************************************************************/
 
